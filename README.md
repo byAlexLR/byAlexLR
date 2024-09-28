@@ -10,8 +10,6 @@ Cuando no estoy frente al ordenador, puedes encontrarme en el gimnasio, sudando 
 ![IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesharia/wp-content/uploads/sites/830/2023/03/img_20230310_0849541-1024x399.jpg =1200x280)  
 _Imagen del [IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesharia/)_
 
----
-
 ## 💻 Habilidades
 ### **Programación:**
 - Java, JavaScript, HTML, CSS, Python, Angular.
