@@ -1,4 +1,4 @@
-# $$🌟 TECH ADVENTURER$$
+# 🌟 TECH ADVENTURER
 
 ## 👤 Sobre mí
 Soy **Alejandro Lorenzo Rodríguez**, un apasionado del desarrollo de aplicaciones y de la vida al aire libre. Como estudiante de **Desarrollo de Aplicaciones Multiplataforma** en el **IES Haría**, encuentro en la programación una forma creativa de materializar mis ideas. Cada línea de código es una oportunidad para aprender y mejorar.
