@@ -41,7 +41,7 @@ _Imagen del [IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesh
 
 ## ✅ Listas de tareas
 - [ ] Intentar enseñar a mi cactus a bailar breakdance. 🌵💃
-- [ ] Convencer a un chatbot de que eres un extraterrestre. 👽
+- [ ] Convencer a un chatbot de que soy un extraterrestre. 👽
 - [x] Tener ganas infinitas de ir a ver, otra vez, a **The Weeknd**. 🎶
 
 ## 💬 Cita favorita
