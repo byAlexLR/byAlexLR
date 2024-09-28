@@ -7,7 +7,7 @@ Cuando no estoy frente al ordenador, puedes encontrarme en el gimnasio, sudando 
 
 **_"Live Today, Love Tomorrow, Unite Forever"_** es mi mantra, una filosofía que me impulsa a vivir cada momento al máximo y a conectar con los demás. ♾️
 
-![IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesharia/wp-content/uploads/sites/830/2023/03/img_20230310_0849541-1024x399.jpg=1200x280)
+![IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesharia/wp-content/uploads/sites/830/2023/03/img_20230310_0849541-1024x399.jpg)
 _Imagen del [IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesharia/)_
 
 ## 💻 Habilidades
