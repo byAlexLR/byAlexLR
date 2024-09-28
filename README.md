@@ -55,10 +55,10 @@ $$ ∫(v * Γ(z)) * e^{iπ * ln(0)} * (a^2 ± b^π * sqrt(b^2 - b^2))^{1/2} * si
 **PD:**  
 Si intentas resolver esta ecuación, te advierto que podrías descubrir el ~~sentido de la vida~~... o simplemente un dolor de cabeza.  
 
-*[sentido]: Si lo encuentras avísame👀.
+*[descubrir]: Si lo encuentras avísame👀.
 
 ## 🗓️ Horario de clases
-| Hora            | Lunes                    | Martes             | Miércoles                  | Jueves                    | Viernes                      |
+| ==Hora==            | ==Lunes==                    | ==Martes==             | ==Miércoles==                  | ==Jueves==                    | ==Viernes==                      |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 | **08:00 - 08:55** | Entornos de Desarrollo   | Programación        | Bases de Datos             | Lenguajes de Marcas y Sistemas | Lenguajes de Marcas y Sistemas |
 | **08:55 - 09:50** | Inglés Profesional       | Programación        | Bases de Datos             | Lenguajes de Marcas y Sistemas | Programación                  |
