@@ -49,7 +49,9 @@ _Imagen del [IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesh
 
 ## 🤔 Mi intento de ser un genio: un fracaso épico (y bien documentado)
 Esta ecuación es tan elegante que solo un genio podría entenderla... o un extraterrestre:
-$$ ∫(v * Γ(z)) * e^{iπ * ln(0)} * (a^2 ± b^π * sqrt(b^2 - b^2))^{1/2} * sin(∞) dz $$
+$$ 
+∫(v * Γ(z)) * e^{iπ * ln(0)} * (a^2 ± b^π * sqrt(b^2 - b^2))^{1/2} * sin(∞) dz 
+$$
 
 **PD:**  
 Si intentas resolver esta ecuación, te advierto que podrías descubrir el ~~sentido de la vida~~... o simplemente un dolor de cabeza.  
