@@ -28,8 +28,6 @@ _Imagen del [IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesh
 - Aprendizaje continuo 📚
 - Adaptación al cambio 🌱
 
----
-
 ## 🚀 Proyectos
 1. **Cine Match:** Una web responsive donde se comenta la popularidad de las películas. [Mírala](https://cinematchalex.netlify.app) 🎬
 2. **Lista de Viajes:**[^1] Una web para hacer una lista para viajar. [Echa un vistazo](https://listadeviajes.netlify.app) 🌍
@@ -37,25 +35,17 @@ _Imagen del [IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesh
 
 [^1]: La lista de Viajes está creada con Angular.
 
----
-
 ## 📞 Contacto
 - **LinkedIn:** [Alejandro Lorenzo Rodríguez](https://www.linkedin.com/in/alejandrolorenzorodriguez/) 🔗
 - **GitHub:** [byAlexLR](https://github.com/byAlexLR) 🐱
-
----
 
 ## ✅ Listas de tareas
 - [ ] Intentar enseñar a mi cactus a bailar breakdance. 🌵💃
 - [ ] Convencer a un chatbot de que eres un extraterrestre. 👽
 - [x] Tener ganas infinitas de ir a ver, otra vez, a **The Weeknd**. 🎶
 
----
-
 ## 💬 Cita favorita
 > *“La mejor manera de predecir el futuro es crearlo.”* - **Alan Kay**
-
----
 
 ## 🤔 Mi intento de ser un genio: un fracaso épico (y bien documentado)
 Esta ecuación es tan elegante que solo un genio podría entenderla... o un extraterrestre:
@@ -64,8 +54,6 @@ $$ ∫(v * Γ(z)) * e^{iπ * ln(0)} * (a^2 ± b^π * sqrt(b^2 - b^2))^{1/2} * si
 **PD:**  
 Si intentas resolver esta ecuación, te advierto que podrías descubrir el ~~sentido de la vida~~... o simplemente un dolor de cabeza.  
 *[sentido de la vida]: Si lo encuentras avísame. 👀*
-
----
 
 ## 🗓️ Horario de clases
 | Hora            | Lunes                    | Martes             | Miércoles                  | Jueves                    | Viernes                      |
@@ -77,7 +65,6 @@ Si intentas resolver esta ecuación, te advierto que podrías descubrir el ~~sen
 | **11:15 - 12:10** | Programación             | Entornos de Desarrollo | Entornos de Desarrollo    | Formación Laboral         | Bases de Datos                |
 | **12:10 - 13:05** | Sistemas Informáticos     | Formación Laboral   | Programación               | Programación              | Sistemas Informáticos         |
 | **13:05 - 14:00** | Sistemas Informáticos     | Sistemas Informáticos | Digitalización Aplicada    | Digitalización Aplicada    | Formación Laboral             |
----
 
 ## 👋 ¡HOLA, HOLA!
 ```javascript
