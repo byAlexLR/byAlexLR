@@ -53,9 +53,9 @@ Esta ecuación es tan elegante que solo un genio podría entenderla... o un extr
 $$ ∫(v * Γ(z)) * e^{iπ * ln(0)} * (a^2 ± b^π * sqrt(b^2 - b^2))^{1/2} * sin(∞) dz $$
 
 **PD:**  
-Si intentas resolver esta ecuación, te advierto que podrías descubrir el ~~sentido de la vida~~... o simplemente un dolor de cabeza.  
+Si intentas resolver esta ecuación, te advierto que podrías descubrir el ~~sentido de la vida~~... o simplemente un dolor de cabeza, sino, vuelve loca a la IA.  
 
-*[descubrir]: Si lo encuentras avísame👀.
+*[IA]: Será divertido👀.
 
 ## 🗓️ Horario de clases
 | ==Hora==            | ==Lunes==                    | ==Martes==             | ==Miércoles==                  | ==Jueves==                    | ==Viernes==                      |
