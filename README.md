@@ -12,15 +12,20 @@ _Imagen del [IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesh
 
 ## 💻 Habilidades
 ### **Programación:**
-- Java, JavaScript, HTML, CSS, Python, Angular.
+- **Lenguajes:**
+  - Java, JavaScript, HTML5, CSS3, Python.
+- **Frameworks:**
+  - Angular, Tailwind, Bootstrap.
 
 ### **Herramientas:**
 - **Control de versiones:**
-  - Git, GitHub
-- **Editores/IDEs:**
-  - Visual Studio Code, Eclipse.
+  - Git, GitHub.
+- **Editores e IDEs:**
+  - Visual Studio Code, Eclipse, NetBeans, IntelliJ.
 - **Bases de datos:**
-  - MySQL, phpMyAdmin, HeidiSQL, MariaDB.
+  - MySQL, MariaDB, phpMyAdmin, PostgreSQL, SQLite, Oracle Database, HeidiSQL.
+- **Virtualización y Simulación:**
+  - Oracle VirtualBox, Cisco Packet Tracer, Docker, Hyper-V.
 
 ### **Soft skills:**
 - Trabajo en equipo 🤝
@@ -30,7 +35,7 @@ _Imagen del [IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesh
 
 ## 🚀 Proyectos
 1. **Cine Match:** Una web responsive donde se comenta la popularidad de las películas. [Mírala](https://cinematchalex.netlify.app) 🎬
-2. **Lista de Viajes:**[^1] Una web para hacer una lista para viajar. [Echa un vistazo](https://listadeviajes.netlify.app) 🌍
+2. **Lista de Viajes:**[^1] Una web para hacer una lista para viajes. [Echa un vistazo](https://listadeviajes.netlify.app) 🌍
 3. **Questime:** Tienes ganas de hacer un mini quiz, ¡Anímate! [A por el QUIZ](https://questime.netlify.app) 📝
 
 [^1]: La lista de Viajes está creada con Angular.
