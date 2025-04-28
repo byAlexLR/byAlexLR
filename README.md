@@ -28,15 +28,20 @@ _Imagen del [IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesh
   - Oracle VirtualBox, Cisco Packet Tracer, Docker, Hyper-V.
 
 ### **Soft skills:**
+- Creatividad 💡
 - Trabajo en equipo 🤝
 - Resolución de problemas 🧩
 - Aprendizaje continuo 📚
 - Adaptación al cambio 🌱
 
 ## 🚀 Proyectos
-1. **Cine Match:** Una web responsive donde se comenta la popularidad de las películas. [Mírala](https://cinematchalex.netlify.app) 🎬
-2. **Lista de Viajes:**[^1] Una web para hacer una lista para viajes. [Echa un vistazo](https://listadeviajes.netlify.app) 🌍
-3. **Questime:** Tienes ganas de hacer un mini quiz, ¡Anímate! [A por el QUIZ](https://questime.netlify.app) 📝
+1. **WaveFit:** Web pensada para entrenadores personales, con zona de login/register, rutinas y tarifas. [Echa un vistazo](https://byalexlr.github.io/WaveFit/) 🏋🏼‍♂️
+2. **IES Haría (Planéate):** Gestioné y desarrollé la página web para la promoción del centro en
+el programa Planéate, en colaboración con el equipo. [Echa un vistazo](https://ies-haria-cfgs.github.io/planeateharia/) 🎓
+3. **Lista de Viajes:**[^1] Una web para hacer una lista para viajes. [Echa un vistazo](https://listadeviajes.netlify.app) 🌍
+4. **Questime:** Tienes ganas de hacer un mini quiz, ¡Anímate! [Echa un vistazo](https://questime.netlify.app) 📝
+5. **Cine Match:** Una web responsive donde se comenta la popularidad de las películas. [Echa un vistazo](https://cinematchalex.netlify.app) 🎬
+
 
 [^1]: La lista de Viajes está creada con Angular.
 
