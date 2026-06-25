@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:5de0a0&height=220&section=header&text=Alejandro%20Lorenzo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Desarrollador%20Freelance%20%C2%B7%20Web%20%C2%B7%20App%20%C2%B7%20IA&descSize=22&descAlignY=55&descColor=ffffff" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:5de0a0&height=220&section=header&text=Alejandro%20Lorenzo%20Rodríguez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Desarrollador%20Freelance%20%C2%B7%20Web%20%C2%B7%20App%20%C2%B7%20IA&descSize=22&descAlignY=55&descColor=ffffff" width="100%" alt="header"/>
 
 ![Disponible para proyectos](https://img.shields.io/badge/●%20Disponible%20para%20proyectos%20freelance%20●-5DE0A0?style=for-the-badge&labelColor=1E2327)
 
@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy **Alejandro Lorenzo**, desarrollador *freelance* de productos web y aplicaciones móviles nativas (Android e iOS), con inteligencia artificial integrada. Diseño, creo y desarrollo proyectos de principio a fin para empresas y emprendedores.
+Soy **Alejandro Lorenzo Rodríguez** (*Alex*), desarrollador *freelance* de productos web y aplicaciones móviles nativas (Android e iOS), con inteligencia artificial integrada. Diseño, creo y desarrollo proyectos de principio a fin para empresas y emprendedores.
 
 Me especializo en entregar el producto completo: de la base de datos a la interfaz, en web y en aplicaciones nativas, con IA allí donde aporta valor real. Mientras la mayoría cubre una sola pieza, yo me responsabilizo del conjunto.
 
