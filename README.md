@@ -1,83 +1,91 @@
-# 🌟 TECH ADVENTURER
+<div align="center">
 
-## 👤 Sobre mí
-Soy **Alejandro Lorenzo Rodríguez**, un apasionado del desarrollo de aplicaciones y de la vida al aire libre. Como estudiante de **Desarrollo de Aplicaciones Multiplataforma** en el **IES Haría**, encuentro en la programación una forma creativa de materializar mis ideas. Cada línea de código es una oportunidad para aprender y mejorar.
+# Alejandro Lorenzo Rodríguez
 
-Cuando no estoy frente al ordenador, puedes encontrarme en el gimnasio, sudando la camiseta en una sesión de CrossFit 💪, o disfrutando de un atardecer 🌅 en buena compañía. **Siempre siento que cada atardecer supera al anterior.** Además, me encanta desconectar en un *chill out* 🍹, rodeado de buena compañía y bajo las palmeras.
+**Desarrollador de aplicaciones multiplataforma · Web & Android (Kotlin)**
 
-**_"Live Today, Love Tomorrow, Unite Forever"_** es mi mantra, una filosofía que me impulsa a vivir cada momento al máximo y a conectar con los demás. ♾️
+📍 Islas Canarias, España &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/alejandrolorenzorodriguez/) &nbsp;·&nbsp; contacto.alexlorrdgz@gmail.com
 
-![IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesharia/wp-content/uploads/sites/830/2023/03/img_20230310_0849541-1024x399.jpg)
-_Imagen del [IES HARÍA](https://www3.gobiernodecanarias.org/medusa/edublog/iesharia/)_
+</div>
 
-## 💻 Habilidades
-### **Programación:**
-- **Lenguajes:**
-  - Java, JavaScript, HTML5, CSS3, Python.
-- **Frameworks:**
-  - Angular, Tailwind, Bootstrap.
+---
 
-### **Herramientas:**
-- **Control de versiones:**
-  - Git, GitHub.
-- **Editores e IDEs:**
-  - Visual Studio Code, Eclipse, NetBeans, IntelliJ.
-- **Bases de datos:**
-  - MySQL, MariaDB, phpMyAdmin, PostgreSQL, SQLite, Oracle Database, HeidiSQL.
-- **Virtualización y Simulación:**
-  - Oracle VirtualBox, Cisco Packet Tracer, Docker, Hyper-V.
+## 👋 Sobre mí
 
-### **Soft skills:**
-- Creatividad 💡
-- Trabajo en equipo 🤝
-- Resolución de problemas 🧩
-- Aprendizaje continuo 📚
-- Adaptación al cambio 🌱
+Soy **Alejandro Lorenzo Rodríguez**, desarrollador de aplicaciones multiplataforma titulado en el **CFGS de DAM (modalidad Dual)** por el IES Haría. Me gusta construir productos completos —del backend a la interfaz— cuidando tanto la arquitectura como los detalles de diseño.
 
-## 🚀 Proyectos
-1. **WaveFit:** Web pensada para entrenadores personales, con zona de login/register, rutinas y tarifas. [Echa un vistazo](https://byalexlr.github.io/WaveFit/) 🏋🏼‍♂️
-2. **IES Haría (Planéate):** Gestioné y desarrollé la página web para la promoción del centro en
-el programa Planéate, en colaboración con el equipo. [Echa un vistazo](https://ies-haria-cfgs.github.io/planeateharia/) 🎓
-3. **Lista de Viajes:**[^1] Una web para hacer una lista para viajes. [Echa un vistazo](https://listadeviajes.netlify.app) 🌍
-4. **Questime:** Tienes ganas de hacer un mini quiz, ¡Anímate! [Echa un vistazo](https://questime.netlify.app) 📝
-5. **Cine Match:** Una web responsive donde se comenta la popularidad de las películas. [Echa un vistazo](https://cinematchalex.netlify.app) 🎬
+Actualmente trabajo principalmente en **desarrollo web** (Angular, React, Next.js) y **Android nativo** con **Kotlin y Jetpack Compose**, apoyándome en **Supabase / PostgreSQL** en el backend. Me interesan especialmente las aplicaciones de **deporte y fitness**, donde combino la programación con mi vida activa y el CrossFit.
 
+Persona **resolutiva, orientada a la tarea y en aprendizaje continuo**: observar, preguntar, equivocarme y mejorar con cada iteración.
 
-[^1]: La lista de Viajes está creada con Angular.
+---
 
-## 📞 Contacto
-- **LinkedIn:** [Alejandro Lorenzo Rodríguez](https://www.linkedin.com/in/alejandrolorenzorodriguez/) 🔗
-- **GitHub:** [byAlexLR](https://github.com/byAlexLR) 🐱
+## 🛠️ Stack
 
-## ✅ Listas de tareas
-- [ ] Intentar enseñar a mi cactus a bailar breakdance. 🌵💃
-- [ ] Convencer a un chatbot de que soy un extraterrestre. 👽
-- [x] Tener ganas infinitas de ir a ver, otra vez, a **The Weeknd**. 🎶
+**Lenguajes**
 
-## 💬 Cita favorita
-> *“La mejor manera de predecir el futuro es crearlo.”* - **Alan Kay**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🤔 Mi intento de ser un genio: un fracaso épico (y bien documentado)
-Esta ecuación es tan elegante que solo un genio podría entenderla... o un extraterrestre:
+**Frameworks & librerías**
 
-$$ ∫(v * Γ(z)) * e^{iπ * ln(0)} * (a^2 ± b^π * sqrt(b^2 - b^2))^{1/2} * sin(∞) dz $$
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**PD:**  
-Si intentas resolver esta ecuación, te advierto que podrías descubrir el ~~sentido de la vida~~... o simplemente un dolor de cabeza.
+**Backend & bases de datos**
 
-## 🗓️ Horario de clases
-| Hora            | Lunes                    | Martes            | Miércoles                  | Jueves                    | Viernes                      |
-|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-| **08:00 - 08:55** | Entornos de Desarrollo   | Programación        | Bases de Datos             | Lenguajes de Marcas y Sistemas | Lenguajes de Marcas y Sistemas |
-| **08:55 - 09:50** | Inglés Profesional       | Programación        | Bases de Datos             | Lenguajes de Marcas y Sistemas | Programación                  |
-| **09:50 - 10:45** | Lenguajes de Marcas y Sistemas | Bases de Datos    | Inglés Profesional          | Sistemas Informáticos     | Bases de Datos                |
-| **10:45 - 11:15** |                          |                    |                            |                           |                              |
-| **11:15 - 12:10** | Programación             | Entornos de Desarrollo | Entornos de Desarrollo    | Formación Laboral         | Bases de Datos                |
-| **12:10 - 13:05** | Sistemas Informáticos     | Formación Laboral   | Programación               | Programación              | Sistemas Informáticos         |
-| **13:05 - 14:00** | Sistemas Informáticos     | Sistemas Informáticos | Digitalización Aplicada    | Digitalización Aplicada    | Formación Laboral             |
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 👋 ¡HOLA, HOLA!
-```javascript
-function saludo() {
-  console.log("¡Hola, mundo!");
-}
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Enlaces |
+|---|---|---|
+| **App deportiva** *(en desarrollo)* | Plataforma de deporte y fitness con app web y Android nativa (Kotlin/Compose): actividades GPS al aire libre, entrenamientos indoor, clubs y rankings. Backend en Supabase. | _(añade el repo/demo cuando esté público)_ |
+| **WaveFit** | Web para entrenadores personales: login/registro, gestión de rutinas y tarifas, diseño responsive. | [Demo](https://byalexlr.github.io/WaveFit/) · [Repo](https://github.com/byAlexLR/WaveFit) |
+| **IES Haría · Planéate** | Web institucional para la promoción del centro, desarrollada en equipo. | [Demo](https://ies-haria-cfgs.github.io/planeateharia/) |
+| **Cine Match** | Web responsive sobre popularidad de películas. | [Demo](https://cinematchalex.netlify.app) |
+| **Questime** | Mini-quiz de ciencia con Tailwind CSS y JavaScript. | [Demo](https://questime.netlify.app) |
+
+---
+
+## 📊 Actividad
+
+<div align="center">
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=byAlexLR&show_icons=true&hide_border=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=byAlexLR&layout=compact&hide_border=true&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"La mejor manera de predecir el futuro es crearlo."* — Alan Kay
+
+</div>
