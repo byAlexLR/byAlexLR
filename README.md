@@ -61,8 +61,8 @@ Vivo en Canarias y, lejos del teclado, entreno *CrossFit* y aprovecho cualquier 
 | **App deportiva** *(en desarrollo)* | Plataforma de deporte y *fitness* como aplicación móvil y web: actividad por GPS al aire libre, entrenamientos en interior, clubes y clasificaciones. La construyo de principio a fin y es mi proyecto más ambicioso. | `Kotlin` · `Compose` · `Next.js` · `Supabase` | _(próximamente)_ |
 | **WaveFit** | Plataforma para entrenadores personales: captación de clientes y gestión de rutinas y tarifas. Diseño adaptable. | `HTML` · `CSS` · `JS` | [Demo](https://byalexlr.github.io/WaveFit/) · [Repo](https://github.com/byAlexLR/WaveFit) |
 | **Planéate** | Web institucional de promoción de un centro, desarrollada en equipo y en producción. | `HTML` · `CSS` · `JS` | [Demo](https://ies-haria-cfgs.github.io/planeateharia/) |
-| **Cine Match** | Web adaptable que explora la popularidad de las películas. | `JS` · `API` | [Demo](https://cinematchalex.netlify.app) |
-| **Questime** | Cuestionario de ciencia con una interfaz dinámica y ágil. | `Tailwind` · `JS` | [Demo](https://questime.netlify.app) |
+
+_Entre otros proyectos desarrollados para empresas privadas._
 
 ---
 
