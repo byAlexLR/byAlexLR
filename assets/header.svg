@@ -8,26 +8,39 @@
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#F3F0E9" stroke-opacity="0.055"/></pattern>
     <filter id="soft-glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
   </defs>
+  <style>
+    .orbit { transform-box: fill-box; transform-origin: center; animation: orbit 24s linear infinite; }
+    .core { transform-box: fill-box; transform-origin: center; animation: breathe 3.2s cubic-bezier(.22,1,.36,1) infinite; }
+    .signal { stroke-dasharray: 24 18; animation: signal 8s linear infinite; }
+    .beacon { animation: beacon 2.8s cubic-bezier(.22,1,.36,1) infinite; }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @keyframes breathe { 0%, 100% { transform: scale(1); opacity: .75; } 50% { transform: scale(1.16); opacity: 1; } }
+    @keyframes signal { to { stroke-dashoffset: -84; } }
+    @keyframes beacon { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .orbit, .core, .signal, .beacon { animation: none; } }
+  </style>
   <rect width="1200" height="390" rx="24" fill="url(#surface)"/>
   <rect x="1" y="1" width="1198" height="388" rx="23" fill="none" stroke="#292A26" stroke-width="2"/>
   <rect width="1200" height="390" rx="24" fill="url(#grid)"/>
   <circle cx="1012" cy="172" r="240" fill="url(#glow)"/>
   <g transform="translate(72 64)" font-family="Inter,Segoe UI,Arial,sans-serif">
-    <rect width="318" height="34" rx="17" fill="#B8E524" fill-opacity="0.1" stroke="#B8E524" stroke-opacity="0.42"/>
-    <circle cx="18" cy="17" r="4" fill="#B8E524"/>
-    <text x="32" y="22" fill="#F3F0E9" font-size="13" font-weight="600" letter-spacing="1.2">LANZAROTE · CANARY ISLANDS · SPAIN</text>
+    <rect width="350" height="34" rx="17" fill="#B8E524" fill-opacity="0.1" stroke="#B8E524" stroke-opacity="0.42"/>
+    <circle class="beacon" cx="18" cy="17" r="4" fill="#B8E524"/>
+    <text x="32" y="22" fill="#F3F0E9" font-size="13" font-weight="600" letter-spacing="1.05">LANZAROTE · CANARY ISLANDS · SPAIN</text>
     <text x="0" y="114" fill="#F3F0E9" font-size="52" font-weight="760" letter-spacing="-1.7">Alejandro Lorenzo</text>
     <text x="0" y="170" fill="#F3F0E9" font-size="52" font-weight="760" letter-spacing="-1.7">Rodríguez</text>
     <text x="2" y="216" fill="#B8E524" font-size="22" font-weight="650">Founder &amp; Technology Partner at @BAZROX</text>
     <text x="2" y="254" fill="#A5A59F" font-size="16" letter-spacing="0.45">FULL-STACK DEVELOPMENT · DIGITAL PRODUCTS · SOFTWARE ENGINEERING</text>
   </g>
   <g transform="translate(975 176)" fill="none">
-    <circle r="104" stroke="#292A26" stroke-width="2"/><circle r="74" stroke="#A5A59F" stroke-opacity="0.22"/><circle r="40" stroke="#B8E524" stroke-opacity="0.7" stroke-width="2"/>
-    <circle r="9" fill="#B8E524"/><circle r="18" stroke="#B8E524" stroke-opacity="0.28" filter="url(#soft-glow)"/>
-    <path d="M-104 0H-40M40 0H104M0-104V-40M0 40V104" stroke="#B8E524" stroke-opacity="0.48"/>
-    <path d="M-74-74L-28-28M28 28L74 74M74-74L28-28M-28 28L-74 74" stroke="#A5A59F" stroke-opacity="0.2"/>
-    <g fill="#171815" stroke="#B8E524" stroke-width="2"><circle cx="-104" r="6"/><circle cx="104" r="6"/><circle cy="-104" r="6"/><circle cy="104" r="6"/></g>
+    <g class="orbit">
+      <circle r="104" stroke="#292A26" stroke-width="2"/><circle r="74" stroke="#A5A59F" stroke-opacity="0.22"/><circle r="40" stroke="#B8E524" stroke-opacity="0.7" stroke-width="2"/>
+      <path d="M-104 0H-40M40 0H104M0-104V-40M0 40V104" stroke="#B8E524" stroke-opacity="0.48"/>
+      <path d="M-74-74L-28-28M28 28L74 74M74-74L28-28M-28 28L-74 74" stroke="#A5A59F" stroke-opacity="0.2"/>
+      <g fill="#171815" stroke="#B8E524" stroke-width="2"><circle cx="-104" r="6"/><circle cx="104" r="6"/><circle cy="-104" r="6"/><circle cy="104" r="6"/></g>
+    </g>
+    <circle r="9" fill="#B8E524"/><circle class="core" r="18" stroke="#B8E524" stroke-opacity="0.28" filter="url(#soft-glow)"/>
   </g>
   <path d="M0 342C210 305 326 381 515 341C712 299 822 330 1200 278V390H0Z" fill="url(#wave)"/>
-  <path d="M0 342C210 305 326 381 515 341C712 299 822 330 1200 278" fill="none" stroke="#B8E524" stroke-width="2" stroke-opacity="0.8"/>
+  <path class="signal" d="M0 342C210 305 326 381 515 341C712 299 822 330 1200 278" fill="none" stroke="#B8E524" stroke-width="2" stroke-opacity="0.8"/>
 </svg>

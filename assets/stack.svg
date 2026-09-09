@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="292" viewBox="0 0 1200 292" role="img" aria-labelledby="title description">
+  <title id="title">Tecnologías principales</title>
+  <desc id="description">TypeScript, React, Next.js, Angular, Kotlin, Swift, Java, PostgreSQL, Supabase y Docker.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171815"/><stop offset="1" stop-color="#10110F"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#F3F0E9" stroke-opacity="0.045"/></pattern>
+  </defs>
+  <style>
+    .rail { stroke-dasharray: 18 16; animation: flow 9s linear infinite; }
+    .pulse { animation: pulse 5s cubic-bezier(.22,1,.36,1) infinite; }
+    .pulse:nth-of-type(2) { animation-delay: 1s; }
+    .pulse:nth-of-type(3) { animation-delay: 2s; }
+    .pulse:nth-of-type(4) { animation-delay: 3s; }
+    .pulse:nth-of-type(5) { animation-delay: 4s; }
+    @keyframes flow { to { stroke-dashoffset: -68; } }
+    @keyframes pulse { 0%, 72%, 100% { fill: #B8E524; opacity: .48; } 14% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .rail, .pulse { animation: none; } }
+  </style>
+  <rect width="1200" height="292" rx="18" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="290" rx="17" fill="none" stroke="#292A26" stroke-width="2"/><rect width="1200" height="292" rx="18" fill="url(#grid)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="54" y="48" fill="#F3F0E9" font-size="22" font-weight="700">Tecnología que acompaña al producto</text>
+    <text x="1146" y="48" text-anchor="end" fill="#A5A59F" font-size="13">WEB · MOBILE · BACKEND · DATA</text>
+    <path class="rail" d="M54 78H1146M54 186H1146" stroke="#B8E524" stroke-opacity="0.38"/>
+    <g fill="#171815" stroke="#292A26" stroke-width="2">
+      <rect x="54" y="94" width="202" height="62" rx="10"/><rect x="276" y="94" width="202" height="62" rx="10"/><rect x="498" y="94" width="202" height="62" rx="10"/><rect x="720" y="94" width="202" height="62" rx="10"/><rect x="944" y="94" width="202" height="62" rx="10"/>
+      <rect x="54" y="202" width="202" height="62" rx="10"/><rect x="276" y="202" width="202" height="62" rx="10"/><rect x="498" y="202" width="202" height="62" rx="10"/><rect x="720" y="202" width="202" height="62" rx="10"/><rect x="944" y="202" width="202" height="62" rx="10"/>
+    </g>
+    <g fill="#B8E524">
+      <circle class="pulse" cx="78" cy="125" r="5"/><circle class="pulse" cx="300" cy="125" r="5"/><circle class="pulse" cx="522" cy="125" r="5"/><circle class="pulse" cx="744" cy="125" r="5"/><circle class="pulse" cx="968" cy="125" r="5"/>
+      <circle class="pulse" cx="78" cy="233" r="5"/><circle class="pulse" cx="300" cy="233" r="5"/><circle class="pulse" cx="522" cy="233" r="5"/><circle class="pulse" cx="744" cy="233" r="5"/><circle class="pulse" cx="968" cy="233" r="5"/>
+    </g>
+    <g fill="#F3F0E9" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">
+      <text x="94" y="132">TypeScript</text><text x="316" y="132">React</text><text x="538" y="132">Next.js</text><text x="760" y="132">Angular</text><text x="984" y="132">Kotlin</text>
+      <text x="94" y="240">Swift</text><text x="316" y="240">Java</text><text x="538" y="240">PostgreSQL</text><text x="760" y="240">Supabase</text><text x="984" y="240">Docker</text>
+    </g>
+  </g>
+</svg>
