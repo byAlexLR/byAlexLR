@@ -2,7 +2,7 @@
   <title id="title">Founder and Technology Partner at BAZROX</title>
   <desc id="description">Alejandro Lorenzo Rodríguez is Founder and Technology Partner at BAZROX, a Digital Product Studio and Technology Partner.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#171815"/><stop offset="1" stop-color="#10110F"/></linearGradient>
+    <linearGradient id="rail"><stop stop-color="#B8E524" stop-opacity="0"/><stop offset=".2" stop-color="#B8E524" stop-opacity=".18"/><stop offset=".8" stop-color="#B8E524" stop-opacity=".18"/><stop offset="1" stop-color="#B8E524" stop-opacity="0"/></linearGradient>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
   </defs>
   <style>
@@ -10,12 +10,12 @@
     @keyframes travel { 0% { transform: translateX(0); opacity: 0; } 12%, 82% { opacity: 1; } 100% { transform: translateX(650px); opacity: 0; } }
     @media (prefers-reduced-motion: reduce) { .traveler { animation: none; opacity: 1; transform: translateX(325px); } }
   </style>
-  <rect x="1" y="1" width="998" height="90" rx="14" fill="url(#bg)" stroke="#292A26" stroke-width="2"/>
-  <path d="M286 46H936" stroke="#292A26" stroke-width="2"/>
+  <!-- Sin contenedor opaco: el cargo comparte el fondo real del perfil. -->
+  <path d="M286 46H936" stroke="url(#rail)" stroke-width="2"/>
   <circle class="traveler" cx="286" cy="46" r="10" fill="#B8E524" fill-opacity="0.16" filter="url(#glow)"/>
   <circle class="traveler" cx="286" cy="46" r="4" fill="#B8E524"/>
-  <rect x="18" y="18" width="238" height="56" rx="9" fill="#B8E524"/>
-  <text x="137" y="54" text-anchor="middle" fill="#10110F" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" letter-spacing="2">BAZROX</text>
+  <rect x="18" y="18" width="238" height="56" rx="9" fill="#B8E524" fill-opacity=".07" stroke="#B8E524" stroke-opacity=".2"/>
+  <text x="137" y="54" text-anchor="middle" fill="#B8E524" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" letter-spacing="2">BAZROX</text>
   <text x="300" y="38" fill="#F3F0E9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">Founder &amp; Technology Partner</text>
   <text x="300" y="66" fill="#A5A59F" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Digital Product Studio · Technology Partner · Product Builder</text>
 </svg>

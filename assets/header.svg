@@ -2,7 +2,10 @@
   <title id="title">Alejandro Lorenzo Rodríguez</title>
   <desc id="description">Founder and Technology Partner at BAZROX. Full-stack development, digital products, and software engineering.</desc>
   <defs>
-    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171815"/><stop offset="1" stop-color="#10110F"/></linearGradient>
+    <linearGradient id="fade-x"><stop stop-color="white" stop-opacity="0"/><stop offset=".09" stop-color="white"/><stop offset=".91" stop-color="white"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient>
+    <linearGradient id="fade-y" x2="0" y2="1"><stop stop-color="white" stop-opacity="0"/><stop offset=".15" stop-color="white"/><stop offset=".75" stop-color="white"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient>
+    <mask id="edges"><rect width="1200" height="390" fill="url(#fade-x)"/></mask>
+    <mask id="vertical"><rect width="1200" height="390" fill="url(#fade-y)"/></mask>
     <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B8E524" stop-opacity="0"/><stop offset="0.48" stop-color="#B8E524" stop-opacity="0.72"/><stop offset="1" stop-color="#B8E524" stop-opacity="0.12"/></linearGradient>
     <radialGradient id="glow"><stop offset="0" stop-color="#B8E524" stop-opacity="0.18"/><stop offset="1" stop-color="#B8E524" stop-opacity="0"/></radialGradient>
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#F3F0E9" stroke-opacity="0.055"/></pattern>
@@ -19,10 +22,11 @@
     @keyframes beacon { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
     @media (prefers-reduced-motion: reduce) { .orbit, .core, .signal, .beacon { animation: none; } }
   </style>
-  <rect width="1200" height="390" rx="24" fill="url(#surface)"/>
-  <rect x="1" y="1" width="1198" height="388" rx="23" fill="none" stroke="#292A26" stroke-width="2"/>
-  <rect width="1200" height="390" rx="24" fill="url(#grid)"/>
-  <circle cx="1012" cy="172" r="240" fill="url(#glow)"/>
+  <!-- La transparencia y el desvanecido integran el recurso con el fondo de GitHub. -->
+  <g mask="url(#edges)"><g mask="url(#vertical)">
+    <rect width="1200" height="390" fill="url(#grid)"/>
+    <circle cx="1012" cy="172" r="240" fill="url(#glow)"/>
+  </g></g>
   <g transform="translate(72 64)" font-family="Inter,Segoe UI,Arial,sans-serif">
     <rect width="350" height="34" rx="17" fill="#B8E524" fill-opacity="0.1" stroke="#B8E524" stroke-opacity="0.42"/>
     <circle class="beacon" cx="18" cy="17" r="4" fill="#B8E524"/>
@@ -41,6 +45,8 @@
     </g>
     <circle r="9" fill="#B8E524"/><circle class="core" r="18" stroke="#B8E524" stroke-opacity="0.28" filter="url(#soft-glow)"/>
   </g>
-  <path d="M0 342C210 305 326 381 515 341C712 299 822 330 1200 278V390H0Z" fill="url(#wave)"/>
-  <path class="signal" d="M0 342C210 305 326 381 515 341C712 299 822 330 1200 278" fill="none" stroke="#B8E524" stroke-width="2" stroke-opacity="0.8"/>
+  <g mask="url(#edges)"><g mask="url(#vertical)">
+    <path d="M0 342C210 305 326 381 515 341C712 299 822 330 1200 278V390H0Z" fill="url(#wave)"/>
+    <path class="signal" d="M0 342C210 305 326 381 515 341C712 299 822 330 1200 278" fill="none" stroke="#B8E524" stroke-width="2" stroke-opacity="0.8"/>
+  </g></g>
 </svg>
