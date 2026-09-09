@@ -53,22 +53,76 @@ En paralelo, construyo **BAZROX** como *Digital Product Studio & Technology Part
 <details>
 <summary><strong>Explorar herramientas y tecnologías</strong></summary>
 
-<br />
-
-**Lenguajes y web**<br />
-![TypeScript](https://img.shields.io/badge/TypeScript-171815?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-171815?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-171815?style=flat-square&logo=openjdk&logoColor=ED8B00) ![Python](https://img.shields.io/badge/Python-171815?style=flat-square&logo=python&logoColor=3776AB) ![HTML](https://img.shields.io/badge/HTML-171815?style=flat-square&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-171815?style=flat-square&logo=css&logoColor=663399) ![Angular](https://img.shields.io/badge/Angular-171815?style=flat-square&logo=angular&logoColor=DD0031) ![React](https://img.shields.io/badge/React-171815?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-171815?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-171815?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Bootstrap](https://img.shields.io/badge/Bootstrap-171815?style=flat-square&logo=bootstrap&logoColor=7952B3)
-
-**Aplicaciones móviles**<br />
-![Kotlin](https://img.shields.io/badge/Kotlin-171815?style=flat-square&logo=kotlin&logoColor=7F52FF) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-171815?style=flat-square&logo=jetpackcompose&logoColor=4285F4) ![Android Studio](https://img.shields.io/badge/Android%20Studio-171815?style=flat-square&logo=androidstudio&logoColor=3DDC84) ![Swift](https://img.shields.io/badge/Swift-171815?style=flat-square&logo=swift&logoColor=F05138) ![SwiftUI](https://img.shields.io/badge/SwiftUI-171815?style=flat-square&logo=swift&logoColor=F05138) ![Xcode](https://img.shields.io/badge/Xcode-171815?style=flat-square&logo=xcode&logoColor=147EFB)
-
-**Backend y datos**<br />
-![Supabase](https://img.shields.io/badge/Supabase-171815?style=flat-square&logo=supabase&logoColor=3FCF8E) ![Firebase](https://img.shields.io/badge/Firebase-171815?style=flat-square&logo=firebase&logoColor=DD2C00) ![Neon](https://img.shields.io/badge/Neon-171815?style=flat-square&logo=neon&logoColor=00E599) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171815?style=flat-square&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-171815?style=flat-square&logo=mysql&logoColor=4479A1) ![MariaDB](https://img.shields.io/badge/MariaDB-171815?style=flat-square&logo=mariadb&logoColor=C49A6C) ![MongoDB](https://img.shields.io/badge/MongoDB-171815?style=flat-square&logo=mongodb&logoColor=47A248) ![SQLite](https://img.shields.io/badge/SQLite-171815?style=flat-square&logo=sqlite&logoColor=54B9EB) ![Oracle](./assets/badges/oracle.svg)
-
-**IA y automatización**<br />
-![Claude Code](https://img.shields.io/badge/Claude%20Code-171815?style=flat-square&logo=claude&logoColor=D97757) ![Anthropic API](https://img.shields.io/badge/Anthropic%20API-171815?style=flat-square&logo=anthropic&logoColor=D4BDA4) ![Gemini](https://img.shields.io/badge/Gemini-171815?style=flat-square&logo=googlegemini&logoColor=8E75B2) ![OpenCode](https://img.shields.io/badge/OpenCode-171815?style=flat-square&logo=opencode&logoColor=FFFFFF) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-171815?style=flat-square&logo=huggingface&logoColor=FFD21E) ![Ollama](https://img.shields.io/badge/Ollama-171815?style=flat-square&logo=ollama&logoColor=FFFFFF) ![LLM](./assets/badges/llm.svg)
-
-**DevOps y herramientas**<br />
-![Git](https://img.shields.io/badge/Git-171815?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-171815?style=flat-square&logo=github&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/Docker-171815?style=flat-square&logo=docker&logoColor=2496ED) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-171815?style=flat-square&logo=googlecloud&logoColor=4285F4) ![Figma](https://img.shields.io/badge/Figma-171815?style=flat-square&logo=figma&logoColor=F24E1E) ![ClickUp](https://img.shields.io/badge/ClickUp-171815?style=flat-square&logo=clickup&logoColor=7B68EE)
+<!-- Tabla nativa y badges en la paleta BAZROX para conservar legibilidad y coherencia en GitHub. -->
+<table>
+<thead><tr><th align="left" width="180">Área</th><th align="left">Tecnologías y herramientas</th></tr></thead>
+<tbody>
+<tr>
+<th scope="row" align="left" valign="top">Lenguajes y web</th>
+<td>
+<img src="https://img.shields.io/badge/TypeScript-171815?style=flat&amp;logo=typescript&amp;logoColor=B8E524" height="26" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-171815?style=flat&amp;logo=javascript&amp;logoColor=B8E524" height="26" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-171815?style=flat&amp;logo=openjdk&amp;logoColor=B8E524" height="26" alt="Java" />
+<img src="https://img.shields.io/badge/Python-171815?style=flat&amp;logo=python&amp;logoColor=B8E524" height="26" alt="Python" />
+<img src="https://img.shields.io/badge/HTML-171815?style=flat&amp;logo=html5&amp;logoColor=B8E524" height="26" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-171815?style=flat&amp;logo=css&amp;logoColor=B8E524" height="26" alt="CSS" />
+<img src="https://img.shields.io/badge/Angular-171815?style=flat&amp;logo=angular&amp;logoColor=B8E524" height="26" alt="Angular" />
+<img src="https://img.shields.io/badge/React-171815?style=flat&amp;logo=react&amp;logoColor=B8E524" height="26" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-171815?style=flat&amp;logo=nextdotjs&amp;logoColor=B8E524" height="26" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-171815?style=flat&amp;logo=tailwindcss&amp;logoColor=B8E524" height="26" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-171815?style=flat&amp;logo=bootstrap&amp;logoColor=B8E524" height="26" alt="Bootstrap" />
+</td>
+</tr>
+<tr>
+<th scope="row" align="left" valign="top">Aplicaciones móviles</th>
+<td>
+<img src="https://img.shields.io/badge/Kotlin-171815?style=flat&amp;logo=kotlin&amp;logoColor=B8E524" height="26" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-171815?style=flat&amp;logo=jetpackcompose&amp;logoColor=B8E524" height="26" alt="Jetpack Compose" />
+<img src="https://img.shields.io/badge/Android%20Studio-171815?style=flat&amp;logo=androidstudio&amp;logoColor=B8E524" height="26" alt="Android Studio" />
+<img src="https://img.shields.io/badge/Swift-171815?style=flat&amp;logo=swift&amp;logoColor=B8E524" height="26" alt="Swift" />
+<img src="https://img.shields.io/badge/SwiftUI-171815?style=flat&amp;logo=swift&amp;logoColor=B8E524" height="26" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/Xcode-171815?style=flat&amp;logo=xcode&amp;logoColor=B8E524" height="26" alt="Xcode" />
+</td>
+</tr>
+<tr>
+<th scope="row" align="left" valign="top">Backend y datos</th>
+<td>
+<img src="https://img.shields.io/badge/Supabase-171815?style=flat&amp;logo=supabase&amp;logoColor=B8E524" height="26" alt="Supabase" />
+<img src="https://img.shields.io/badge/Firebase-171815?style=flat&amp;logo=firebase&amp;logoColor=B8E524" height="26" alt="Firebase" />
+<img src="https://img.shields.io/badge/Neon-171815?style=flat&amp;logo=neon&amp;logoColor=B8E524" height="26" alt="Neon" />
+<img src="https://img.shields.io/badge/PostgreSQL-171815?style=flat&amp;logo=postgresql&amp;logoColor=B8E524" height="26" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-171815?style=flat&amp;logo=mysql&amp;logoColor=B8E524" height="26" alt="MySQL" />
+<img src="https://img.shields.io/badge/MariaDB-171815?style=flat&amp;logo=mariadb&amp;logoColor=B8E524" height="26" alt="MariaDB" />
+<img src="https://img.shields.io/badge/MongoDB-171815?style=flat&amp;logo=mongodb&amp;logoColor=B8E524" height="26" alt="MongoDB" />
+<img src="https://img.shields.io/badge/SQLite-171815?style=flat&amp;logo=sqlite&amp;logoColor=B8E524" height="26" alt="SQLite" />
+<img src="./assets/badges/oracle.svg" height="26" alt="Oracle" />
+</td>
+</tr>
+<tr>
+<th scope="row" align="left" valign="top">IA y automatización</th>
+<td>
+<img src="https://img.shields.io/badge/Claude%20Code-171815?style=flat&amp;logo=claude&amp;logoColor=B8E524" height="26" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Anthropic%20API-171815?style=flat&amp;logo=anthropic&amp;logoColor=B8E524" height="26" alt="Anthropic API" />
+<img src="https://img.shields.io/badge/Gemini-171815?style=flat&amp;logo=googlegemini&amp;logoColor=B8E524" height="26" alt="Gemini" />
+<img src="https://img.shields.io/badge/OpenCode-171815?style=flat&amp;logo=opencode&amp;logoColor=B8E524" height="26" alt="OpenCode" />
+<img src="https://img.shields.io/badge/Hugging%20Face-171815?style=flat&amp;logo=huggingface&amp;logoColor=B8E524" height="26" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Ollama-171815?style=flat&amp;logo=ollama&amp;logoColor=B8E524" height="26" alt="Ollama" />
+<img src="./assets/badges/llm.svg" height="26" alt="LLM" />
+</td>
+</tr>
+<tr>
+<th scope="row" align="left" valign="top">DevOps y herramientas</th>
+<td>
+<img src="https://img.shields.io/badge/Git-171815?style=flat&amp;logo=git&amp;logoColor=B8E524" height="26" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-171815?style=flat&amp;logo=github&amp;logoColor=B8E524" height="26" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-171815?style=flat&amp;logo=docker&amp;logoColor=B8E524" height="26" alt="Docker" />
+<img src="https://img.shields.io/badge/Google%20Cloud-171815?style=flat&amp;logo=googlecloud&amp;logoColor=B8E524" height="26" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Figma-171815?style=flat&amp;logo=figma&amp;logoColor=B8E524" height="26" alt="Figma" />
+<img src="https://img.shields.io/badge/ClickUp-171815?style=flat&amp;logo=clickup&amp;logoColor=B8E524" height="26" alt="ClickUp" />
+</td>
+</tr>
+</tbody>
+</table>
 
 </details>
 
