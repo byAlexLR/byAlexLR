@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/BAZROX">
-  <img src="./assets/role.svg" width="83%" alt="Founder and Technology Partner at BAZROX" />
+  <img src="./assets/role.svg" width="100%" alt="Founder and Technology Partner at BAZROX" />
 </a>
 
 <a href="https://github.com/byAlexLR">
