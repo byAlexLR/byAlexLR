@@ -16,8 +16,6 @@
 
 [![BAZROX](https://img.shields.io/badge/BAZROX-B8E524?style=for-the-badge&logoColor=10110F)](https://bazrox.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-171815?style=for-the-badge&logo=linkedin&logoColor=B8E524)](https://www.linkedin.com/in/alejandrolorenzorodriguez/) [![Email](https://img.shields.io/badge/info%40bazrox.com-171815?style=for-the-badge&logo=gmail&logoColor=B8E524)](mailto:info@bazrox.com)
 
-<sub>Lanzarote · Canary Islands · Spain</sub>
-
 </div>
 
 ---
@@ -42,7 +40,7 @@ Hoy mi actividad profesional se articula desde **[BAZROX](https://bazrox.com)** 
 
 **[Zoku Athletics](https://zokuathletics.com)** es un producto propio de BAZROX actualmente en desarrollo. Su construcción conecta aplicaciones móviles, web, *backend*, datos, UX/UI y arquitectura alrededor del deporte, el entrenamiento, la comunidad y la experiencia deportiva.
 
-`Kotlin` · `Jetpack Compose` · `Next.js` · `Supabase`
+![Kotlin](https://img.shields.io/badge/Kotlin-171815?style=flat-square&logo=kotlin&logoColor=7F52FF) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-171815?style=flat-square&logo=jetpackcompose&logoColor=4285F4) ![Next.js](https://img.shields.io/badge/Next.js-171815?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![Supabase](https://img.shields.io/badge/Supabase-171815?style=flat-square&logo=supabase&logoColor=3FCF8E)
 
 En paralelo, construyo **BAZROX** como *Digital Product Studio & Technology Partner*: una forma de trabajar en la que producto, diseño e ingeniería forman parte de la misma conversación.
 
@@ -58,19 +56,19 @@ En paralelo, construyo **BAZROX** como *Digital Product Studio & Technology Part
 <br />
 
 **Lenguajes y web**<br />
-<kbd>TypeScript</kbd> <kbd>JavaScript</kbd> <kbd>Java</kbd> <kbd>Python</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Angular</kbd> <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Tailwind CSS</kbd> <kbd>Bootstrap</kbd>
+![TypeScript](https://img.shields.io/badge/TypeScript-171815?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-171815?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-171815?style=flat-square&logo=openjdk&logoColor=ED8B00) ![Python](https://img.shields.io/badge/Python-171815?style=flat-square&logo=python&logoColor=3776AB) ![HTML](https://img.shields.io/badge/HTML-171815?style=flat-square&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-171815?style=flat-square&logo=css&logoColor=663399) ![Angular](https://img.shields.io/badge/Angular-171815?style=flat-square&logo=angular&logoColor=DD0031) ![React](https://img.shields.io/badge/React-171815?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-171815?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-171815?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Bootstrap](https://img.shields.io/badge/Bootstrap-171815?style=flat-square&logo=bootstrap&logoColor=7952B3)
 
 **Aplicaciones móviles**<br />
-<kbd>Kotlin</kbd> <kbd>Jetpack Compose</kbd> <kbd>Android Studio</kbd> <kbd>Swift</kbd> <kbd>SwiftUI</kbd> <kbd>Xcode</kbd>
+![Kotlin](https://img.shields.io/badge/Kotlin-171815?style=flat-square&logo=kotlin&logoColor=7F52FF) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-171815?style=flat-square&logo=jetpackcompose&logoColor=4285F4) ![Android Studio](https://img.shields.io/badge/Android%20Studio-171815?style=flat-square&logo=androidstudio&logoColor=3DDC84) ![Swift](https://img.shields.io/badge/Swift-171815?style=flat-square&logo=swift&logoColor=F05138) ![SwiftUI](https://img.shields.io/badge/SwiftUI-171815?style=flat-square&logo=swift&logoColor=F05138) ![Xcode](https://img.shields.io/badge/Xcode-171815?style=flat-square&logo=xcode&logoColor=147EFB)
 
 **Backend y datos**<br />
-<kbd>Supabase</kbd> <kbd>Firebase</kbd> <kbd>Neon</kbd> <kbd>PostgreSQL</kbd> <kbd>MySQL</kbd> <kbd>MariaDB</kbd> <kbd>MongoDB</kbd> <kbd>SQLite</kbd> <kbd>Oracle</kbd>
+![Supabase](https://img.shields.io/badge/Supabase-171815?style=flat-square&logo=supabase&logoColor=3FCF8E) ![Firebase](https://img.shields.io/badge/Firebase-171815?style=flat-square&logo=firebase&logoColor=DD2C00) ![Neon](https://img.shields.io/badge/Neon-171815?style=flat-square&logo=neon&logoColor=00E599) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171815?style=flat-square&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-171815?style=flat-square&logo=mysql&logoColor=4479A1) ![MariaDB](https://img.shields.io/badge/MariaDB-171815?style=flat-square&logo=mariadb&logoColor=C49A6C) ![MongoDB](https://img.shields.io/badge/MongoDB-171815?style=flat-square&logo=mongodb&logoColor=47A248) ![SQLite](https://img.shields.io/badge/SQLite-171815?style=flat-square&logo=sqlite&logoColor=54B9EB) ![Oracle](./assets/badges/oracle.svg)
 
 **IA y automatización**<br />
-<kbd>Claude Code</kbd> <kbd>Anthropic API</kbd> <kbd>Gemini</kbd> <kbd>OpenCode</kbd> <kbd>Hugging Face</kbd> <kbd>Ollama</kbd> <kbd>LLM</kbd>
+![Claude Code](https://img.shields.io/badge/Claude%20Code-171815?style=flat-square&logo=claude&logoColor=D97757) ![Anthropic API](https://img.shields.io/badge/Anthropic%20API-171815?style=flat-square&logo=anthropic&logoColor=D4BDA4) ![Gemini](https://img.shields.io/badge/Gemini-171815?style=flat-square&logo=googlegemini&logoColor=8E75B2) ![OpenCode](https://img.shields.io/badge/OpenCode-171815?style=flat-square&logo=opencode&logoColor=FFFFFF) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-171815?style=flat-square&logo=huggingface&logoColor=FFD21E) ![Ollama](https://img.shields.io/badge/Ollama-171815?style=flat-square&logo=ollama&logoColor=FFFFFF) ![LLM](./assets/badges/llm.svg)
 
 **DevOps y herramientas**<br />
-<kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Docker</kbd> <kbd>Google Cloud</kbd> <kbd>Figma</kbd> <kbd>ClickUp</kbd>
+![Git](https://img.shields.io/badge/Git-171815?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-171815?style=flat-square&logo=github&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/Docker-171815?style=flat-square&logo=docker&logoColor=2496ED) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-171815?style=flat-square&logo=googlecloud&logoColor=4285F4) ![Figma](https://img.shields.io/badge/Figma-171815?style=flat-square&logo=figma&logoColor=F24E1E) ![ClickUp](https://img.shields.io/badge/ClickUp-171815?style=flat-square&logo=clickup&logoColor=7B68EE)
 
 </details>
 
@@ -84,7 +82,7 @@ En paralelo, construyo **BAZROX** como *Digital Product Studio & Technology Part
 
 Plataforma SportTech en desarrollo alrededor del deporte, el entrenamiento, la comunidad y la experiencia deportiva. Es el producto propio en el que hoy convergen mi trabajo de producto, mobile, web, *backend*, datos, UX/UI y arquitectura.
 
-`Kotlin` · `Jetpack Compose` · `Next.js` · `Supabase`
+![Kotlin](https://img.shields.io/badge/Kotlin-171815?style=flat-square&logo=kotlin&logoColor=7F52FF) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-171815?style=flat-square&logo=jetpackcompose&logoColor=4285F4) ![Next.js](https://img.shields.io/badge/Next.js-171815?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![Supabase](https://img.shields.io/badge/Supabase-171815?style=flat-square&logo=supabase&logoColor=3FCF8E)
 
 ### [Task Manager API](https://github.com/byAlexLR/TaskManager-API)
 
