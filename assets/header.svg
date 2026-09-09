@@ -1,0 +1,20 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" fill="#10110F"/>
+  <g opacity="0.55" stroke="#292A26">
+    <path d="M72 0V280"/>
+    <path d="M1128 0V280"/>
+    <path d="M0 232H1200"/>
+    <path d="M72 48H1128"/>
+  </g>
+  <rect x="72" y="72" width="42" height="4" rx="2" fill="#B8E524"/>
+  <text x="72" y="139" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.2" fill="#F3F0E9">Alejandro Lorenzo Rodríguez</text>
+  <text x="72" y="181" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" fill="#B8E524">Founder &amp; Technology Partner at @BAZROX</text>
+  <text x="72" y="216" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#A5A59F">Full-Stack Development · Digital Products · Software Engineering</text>
+  <g transform="translate(1052 80)">
+    <rect width="76" height="76" rx="18" stroke="#292A26"/>
+    <path d="M18 38H58" stroke="#B8E524" stroke-width="2"/>
+    <path d="M38 18V58" stroke="#B8E524" stroke-width="2"/>
+    <circle cx="38" cy="38" r="5" fill="#B8E524"/>
+  </g>
+  <text x="72" y="258" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="1.8" fill="#62625D">LANZAROTE · CANARY ISLANDS</text>
+</svg>

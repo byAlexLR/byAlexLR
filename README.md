@@ -1,89 +1,155 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:5de0a0&height=220&section=header&text=Alejandro%20Lorenzo%20Rodríguez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Desarrollador%20Freelance%20%C2%B7%20Web%20%C2%B7%20App%20%C2%B7%20IA&descSize=22&descAlignY=55&descColor=ffffff" width="100%" alt="header"/>
-
-![Disponible para proyectos](https://img.shields.io/badge/●%20Disponible%20para%20proyectos%20freelance%20●-5DE0A0?style=for-the-badge&labelColor=1E2327)
-
-<a href="https://github.com/byAlexLR">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=5DE0A0&center=true&vCenter=true&width=640&lines=Convierto+ideas+en+productos+reales;Web+%C2%B7+M%C3%B3vil+nativo+(Android+e+iOS)+%C2%B7+IA;Del+modelo+de+datos+a+la+interfaz+final" alt="roles"/>
+<a href="https://github.com/BAZROX">
+  <img src="./assets/header.svg" width="100%" alt="Alejandro Lorenzo Rodríguez - Founder &amp; Technology Partner at BAZROX"/>
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Contacta_en_LinkedIn-5DE0A0?style=for-the-badge&logo=linkedin&logoColor=1E2327)](https://www.linkedin.com/in/alejandrolorenzorodriguez/)
-[![Email](https://img.shields.io/badge/Escríbeme-1E2327?style=for-the-badge&logo=gmail&logoColor=5DE0A0)](mailto:devs.byalexlr@gmail.com)
+<a href="https://bazrox.com">
+  <img src="https://img.shields.io/badge/BAZROX-bazrox.com-B8E524?style=flat-square&labelColor=10110F" alt="BAZROX"/>
+</a>
+<a href="https://www.linkedin.com/in/alejandrolorenzorodriguez/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-F3F0E9?style=flat-square&logo=linkedin&logoColor=10110F" alt="LinkedIn"/>
+</a>
+<a href="mailto:info@bazrox.com">
+  <img src="https://img.shields.io/badge/Email-info%40bazrox.com-10110F?style=flat-square&logo=gmail&logoColor=B8E524" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=B8E524&center=true&vCenter=true&width=720&lines=Construyo+productos+digitales+de+principio+a+fin;Web+%C2%B7+Mobile+%C2%B7+Backend+%C2%B7+APIs+%C2%B7+IA;Building+BAZROX+%C2%B7+Building+Zoku+Athletics" alt="Actualmente"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-Soy **Alejandro Lorenzo Rodríguez** (*Alex*), desarrollador *freelance* de productos web y aplicaciones móviles nativas (Android e iOS), con inteligencia artificial integrada. Diseño, creo y desarrollo proyectos de principio a fin para empresas y emprendedores.
+Soy **Alejandro Lorenzo Rodríguez**, desarrollador full-stack y **Founder & Technology Partner en [@BAZROX](https://github.com/BAZROX)**.
 
-Me especializo en entregar el producto completo: de la base de datos a la interfaz, en web y en aplicaciones nativas, con IA allí donde aporta valor real. Mientras la mayoría cubre una sola pieza, yo me responsabilizo del conjunto.
+Me gusta moverme entre producto y código: entender qué hay que resolver, plantear una solución con sentido y construirla hasta que funciona en producción.
 
-Mi valor no es solo técnico. Afronto cada encargo como si fuera mi propio producto: entiendo primero el problema y el negocio al que sirve, y solo después escribo la primera línea de código. Esa mentalidad de dueño nace de crear mis propias aplicaciones desde cero, como la plataforma de deporte y *fitness* que desarrollo en la actualidad; y cada proyecto es, además, una oportunidad para aprender y mejorar.
+Trabajo en **web, aplicaciones móviles, backend, APIs, datos, automatización e IA aplicada**, aunque intento no empezar ningún proyecto pensando primero en la tecnología. Prefiero entender el problema, el contexto y lo que necesita realmente el negocio; después elijo las herramientas que mejor encajan.
 
-Vivo en Canarias y, lejos del teclado, entreno *CrossFit* y aprovecho cualquier excusa para estar al aire libre. No es casualidad que el producto que construyo gire en torno al deporte: me gusta programar aquello que me apasiona vivir.
+Actualmente desarrollo mi actividad profesional a través de **[BAZROX](https://bazrox.com)**, un Digital Product Studio y Technology Partner nacido en Canarias. También construyo productos propios como **Zoku Athletics**, donde trabajo de extremo a extremo entre producto, diseño, arquitectura e ingeniería.
 
-> *«Live Today, Love Tomorrow, Unite Forever»*, la filosofía con la que afronto cada día y cada proyecto. ♾️
+Este GitHub recoge una parte de mi recorrido: proyectos, pruebas, ideas y tecnologías con las que he ido aprendiendo y creciendo. Buena parte de mi trabajo profesional vive en repositorios privados, así que esto no pretende ser un catálogo completo, sino una ventana a cómo construyo y sigo aprendiendo.
 
----
-
-## 💡 Qué puedo hacer por ti o por tu equipo
-
-- 🌐 **Web moderna y adaptable:** interfaces rápidas con Angular, React y Next.js.
-- 📱 **Aplicaciones móviles nativas:** experiencias fluidas en Android (Kotlin y Jetpack Compose) e iOS (Swift y SwiftUI).
-- 🤖 **Funcionalidades con IA:** integración de modelos de lenguaje (Claude, Gemini) para automatizar y diferenciar el producto.
-- 🗄️ **Backend y datos:** API y bases de datos sólidas con Supabase y PostgreSQL.
-- 🎯 **Producto de principio a fin:** desde la idea hasta el despliegue, cuidando el diseño y el detalle.
+> **Entender primero. Diseñar con criterio. Construir para evolucionar.**
 
 ---
 
-## 🧰 Stack tecnológico
+## Ahora mismo
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | ![Kotlin](https://img.shields.io/badge/Kotlin-1E2327?style=flat-square&logo=kotlin&logoColor=5DE0A0) ![Swift](https://img.shields.io/badge/Swift-1E2327?style=flat-square&logo=swift&logoColor=5DE0A0) ![TypeScript](https://img.shields.io/badge/TypeScript-1E2327?style=flat-square&logo=typescript&logoColor=5DE0A0) ![JavaScript](https://img.shields.io/badge/JavaScript-1E2327?style=flat-square&logo=javascript&logoColor=5DE0A0) ![Java](https://img.shields.io/badge/Java-1E2327?style=flat-square&logo=openjdk&logoColor=5DE0A0) ![Python](https://img.shields.io/badge/Python-1E2327?style=flat-square&logo=python&logoColor=5DE0A0) ![HTML5](https://img.shields.io/badge/HTML5-1E2327?style=flat-square&logo=html5&logoColor=5DE0A0) ![CSS](https://img.shields.io/badge/CSS-1E2327?style=flat-square&logo=css&logoColor=5DE0A0) |
-| **Web** | ![Angular](https://img.shields.io/badge/Angular-1E2327?style=flat-square&logo=angular&logoColor=5DE0A0) ![React](https://img.shields.io/badge/React-1E2327?style=flat-square&logo=react&logoColor=5DE0A0) ![Next.js](https://img.shields.io/badge/Next.js-1E2327?style=flat-square&logo=nextdotjs&logoColor=5DE0A0) ![Tailwind](https://img.shields.io/badge/Tailwind-1E2327?style=flat-square&logo=tailwindcss&logoColor=5DE0A0) ![Bootstrap](https://img.shields.io/badge/Bootstrap-1E2327?style=flat-square&logo=bootstrap&logoColor=5DE0A0) |
-| **Móvil** | ![Kotlin](https://img.shields.io/badge/Kotlin-1E2327?style=flat-square&logo=kotlin&logoColor=5DE0A0) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1E2327?style=flat-square&logo=jetpackcompose&logoColor=5DE0A0) ![Android Studio](https://img.shields.io/badge/Android%20Studio-1E2327?style=flat-square&logo=androidstudio&logoColor=5DE0A0) ![Swift](https://img.shields.io/badge/Swift-1E2327?style=flat-square&logo=swift&logoColor=5DE0A0) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1E2327?style=flat-square&logo=swift&logoColor=5DE0A0) ![Xcode](https://img.shields.io/badge/Xcode-1E2327?style=flat-square&logo=xcode&logoColor=5DE0A0) |
-| **IA** | ![Claude Code](https://img.shields.io/badge/Claude%20Code-1E2327?style=flat-square&logo=claudecode&logoColor=5DE0A0) ![Anthropic API](https://img.shields.io/badge/Anthropic%20API-1E2327?style=flat-square&logo=anthropic&logoColor=5DE0A0) ![Gemini](https://img.shields.io/badge/Gemini-1E2327?style=flat-square&logo=googlegemini&logoColor=5DE0A0) ![OpenCode](https://img.shields.io/badge/OpenCode-1E2327?style=flat-square&logo=opencode&logoColor=5DE0A0) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1E2327?style=flat-square&logo=huggingface&logoColor=5DE0A0) ![Ollama](https://img.shields.io/badge/Ollama-1E2327?style=flat-square&logo=ollama&logoColor=5DE0A0) ![LLMs](https://img.shields.io/badge/LLMs-1E2327?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzVERTBBMCI%2BPHBhdGggZD0iTTExIDJsMiA1LjVMMTguNSA5LjUgMTMgMTEuNSAxMSAxNyA5IDExLjUgMy41IDkuNSA5IDcuNXoiLz48cGF0aCBkPSJNMTggMTRsMSAyLjYgMi42IDEtMi42IDFMMTggMjFsLTEtMi40LTIuNi0xIDIuNi0xeiIvPjwvc3ZnPgo%3D) |
-| **Backend y datos** | ![Supabase](https://img.shields.io/badge/Supabase-1E2327?style=flat-square&logo=supabase&logoColor=5DE0A0) ![Firebase](https://img.shields.io/badge/Firebase-1E2327?style=flat-square&logo=firebase&logoColor=5DE0A0) ![Neon](https://img.shields.io/badge/Neon-1E2327?style=flat-square&logo=neon&logoColor=5DE0A0) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E2327?style=flat-square&logo=postgresql&logoColor=5DE0A0) ![MySQL](https://img.shields.io/badge/MySQL-1E2327?style=flat-square&logo=mysql&logoColor=5DE0A0) ![MariaDB](https://img.shields.io/badge/MariaDB-1E2327?style=flat-square&logo=mariadb&logoColor=5DE0A0) ![MongoDB](https://img.shields.io/badge/MongoDB-1E2327?style=flat-square&logo=mongodb&logoColor=5DE0A0) ![SQLite](https://img.shields.io/badge/SQLite-1E2327?style=flat-square&logo=sqlite&logoColor=5DE0A0) ![Oracle](https://img.shields.io/badge/Oracle-1E2327?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzVERTBBMCI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNC41IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA3LjVjMCAxLjY2IDMuNTggMyA4IDNzOC0xLjM0IDgtM3Y0YzAgMS42Ni0zLjU4IDMtOCAzcy04LTEuMzQtOC0zeiIvPjxwYXRoIGQ9Ik00IDE1LjVjMCAxLjY2IDMuNTggMyA4IDNzOC0xLjM0IDgtM1YxOWMwIDEuNjYtMy41OCAzLTggM3MtOC0xLjM0LTgtM3oiLz48L3N2Zz4K) |
-| **DevOps y herramientas** | ![Git](https://img.shields.io/badge/Git-1E2327?style=flat-square&logo=git&logoColor=5DE0A0) ![GitHub](https://img.shields.io/badge/GitHub-1E2327?style=flat-square&logo=github&logoColor=5DE0A0) ![Docker](https://img.shields.io/badge/Docker-1E2327?style=flat-square&logo=docker&logoColor=5DE0A0) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1E2327?style=flat-square&logo=googlecloud&logoColor=5DE0A0) ![Figma](https://img.shields.io/badge/Figma-1E2327?style=flat-square&logo=figma&logoColor=5DE0A0) ![ClickUp](https://img.shields.io/badge/ClickUp-1E2327?style=flat-square&logo=clickup&logoColor=5DE0A0) |
+**BAZROX**<br/>
+Construyendo productos y sistemas digitales para empresas desde Canarias, combinando producto, diseño e ingeniería.
 
----
+**Zoku Athletics**<br/>
+Desarrollando un producto SportTech propio en el que trabajo desde la idea y la experiencia hasta la arquitectura, móvil, web, backend y datos.
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Qué resuelve | Stack | Enlaces |
-|---|---|---|---|
-| **App deportiva** *(en desarrollo)* | Plataforma de deporte y *fitness* como aplicación móvil y web: actividad por GPS al aire libre, entrenamientos en interior, clubes y clasificaciones. La construyo de principio a fin y es mi proyecto más ambicioso. | `Kotlin` · `Compose` · `Next.js` · `Supabase` | _(próximamente)_ |
-| **WaveFit** | Plataforma para entrenadores personales: captación de clientes y gestión de rutinas y tarifas. Diseño adaptable. | `HTML` · `CSS` · `JS` | [Demo](https://byalexlr.github.io/WaveFit/) · [Repo](https://github.com/byAlexLR/WaveFit) |
-| **Planéate** | Web institucional de promoción de un centro, desarrollada en equipo y en producción. | `HTML` · `CSS` · `JS` | [Demo](https://ies-haria-cfgs.github.io/planeateharia/) |
-
-_Entre otros proyectos desarrollados para empresas privadas._
+**Aprendizaje continuo**<br/>
+Este perfil sigue siendo también mi espacio para experimentar, probar tecnologías y construir cosas fuera del trabajo profesional.
 
 ---
 
-## 📊 Actividad
+## Herramientas que uso
+
+![TypeScript](https://img.shields.io/badge/TypeScript-10110F?style=flat-square&logo=typescript&logoColor=B8E524)
+![React](https://img.shields.io/badge/React-10110F?style=flat-square&logo=react&logoColor=B8E524)
+![Next.js](https://img.shields.io/badge/Next.js-10110F?style=flat-square&logo=nextdotjs&logoColor=B8E524)
+![Angular](https://img.shields.io/badge/Angular-10110F?style=flat-square&logo=angular&logoColor=B8E524)
+![Kotlin](https://img.shields.io/badge/Kotlin-10110F?style=flat-square&logo=kotlin&logoColor=B8E524)
+![Swift](https://img.shields.io/badge/Swift-10110F?style=flat-square&logo=swift&logoColor=B8E524)
+![Java](https://img.shields.io/badge/Java-10110F?style=flat-square&logo=openjdk&logoColor=B8E524)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10110F?style=flat-square&logo=postgresql&logoColor=B8E524)
+![Supabase](https://img.shields.io/badge/Supabase-10110F?style=flat-square&logo=supabase&logoColor=B8E524)
+![Docker](https://img.shields.io/badge/Docker-10110F?style=flat-square&logo=docker&logoColor=B8E524)
+
+<details>
+<summary><strong>Ver stack completo</strong></summary>
+
+<br/>
+
+**Web**<br/>
+`React` · `Next.js` · `Angular` · `TypeScript` · `JavaScript` · `Tailwind CSS`
+
+**Móvil**<br/>
+`Kotlin` · `Jetpack Compose` · `Swift` · `SwiftUI`
+
+**Backend y datos**<br/>
+`Java` · `Spring Boot` · `Supabase` · `PostgreSQL` · `MongoDB` · `Firebase` · `MySQL` · `SQLite`
+
+**IA y automatización**<br/>
+`Anthropic` · `Claude Code` · `Gemini` · `LLMs` · `Ollama` · `Hugging Face`
+
+**Herramientas**<br/>
+`Git` · `GitHub` · `Docker` · `Google Cloud` · `Figma`
+
+</details>
+
+---
+
+## Algunas cosas que he construido
+
+### Zoku Athletics <sub>· en desarrollo</sub>
+
+**Producto propio · SportTech**
+
+Plataforma tecnológica alrededor del deporte, el entrenamiento y la comunidad. Es el proyecto en el que más llevo mi forma de trabajar de extremo a extremo: **producto, UX/UI, arquitectura, móvil, web, backend y datos**.
+
+`Kotlin` · `Jetpack Compose` · `Next.js` · `Supabase`
+
+> Actualmente en desarrollo.
+
+---
+
+### [Task Manager API](https://github.com/byAlexLR/TaskManager-API)
+
+API REST para gestionar y organizar tareas con filtros, paginación, estadísticas y sistema de etiquetas.
+
+`Java` · `Spring Boot` · `MongoDB`
+
+[Repositorio](https://github.com/byAlexLR/TaskManager-API)
+
+---
+
+### [WaveFit](https://github.com/byAlexLR/WaveFit)
+
+Uno de mis proyectos anteriores alrededor del deporte y el entrenamiento: una plataforma web orientada a entrenadores personales y gestión de servicios.
+
+`HTML` · `CSS` · `JavaScript`
+
+[Demo](https://byalexlr.github.io/WaveFit/) · [Repositorio](https://github.com/byAlexLR/WaveFit)
+
+---
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=byAlexLR&bg_color=1E2327&color=5DE0A0&line=5DE0A0&point=FFFFFF&area=true&area_color=5DE0A0&title_color=5DE0A0&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfica de actividad de contribuciones"/>
-<img width="49.7%" height="416px" src="https://streak-stats.demolab.com?user=byAlexLR&locale=es&hide_border=true&background=1E2327&stroke=1E2327&ring=5DE0A0&fire=5DE0A0&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=5DE0A0&sideLabels=C9D1D9&dates=8B949E" alt="Contribuciones totales"/> <img width="49.7%" height="416px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byAlexLR&layout=compact&card_width=415&hide_border=true&title_color=5DE0A0&text_color=C9D1D9&bg_color=1E2327" alt="Lenguajes más usados"/>
+
+[**Explorar todos mis repositorios**](https://github.com/byAlexLR?tab=repositories)
+
 </div>
 
 ---
 
 <div align="center">
 
-### ¿Tienes un proyecto en mente? Trabajemos juntos
+### ¿Hablamos?
 
-Disponible para colaboraciones *freelance* en proyectos web, móviles e IA.
+Si estás construyendo, mejorando o replanteando un producto digital, podemos hablar.
 
-[![LinkedIn](https://img.shields.io/badge/Contacta_en_LinkedIn-5DE0A0?style=for-the-badge&logo=linkedin&logoColor=1E2327)](https://www.linkedin.com/in/alejandrolorenzorodriguez/)
-[![Email](https://img.shields.io/badge/Escríbeme-1E2327?style=for-the-badge&logo=gmail&logoColor=5DE0A0)](mailto:devs.byalexlr@gmail.com)
+<a href="https://www.linkedin.com/in/alejandrolorenzorodriguez/">
+  <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Lorenzo-B8E524?style=for-the-badge&logo=linkedin&logoColor=10110F" alt="LinkedIn"/>
+</a>
+<a href="mailto:info@bazrox.com">
+  <img src="https://img.shields.io/badge/Email-info%40bazrox.com-F3F0E9?style=for-the-badge&logo=gmail&logoColor=10110F" alt="Email"/>
+</a>
+<a href="https://bazrox.com">
+  <img src="https://img.shields.io/badge/Web-bazrox.com-10110F?style=for-the-badge&logo=googlechrome&logoColor=B8E524" alt="BAZROX"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5de0a0,100:1e2327&height=120&section=footer" width="100%" alt="footer"/>
+<br/><br/>
+
+<sub>Founder & Technology Partner at <a href="https://github.com/BAZROX">@BAZROX</a> · Lanzarote, Canary Islands</sub>
 
 </div>
