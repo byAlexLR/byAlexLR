@@ -40,7 +40,12 @@ Hoy mi actividad profesional se articula desde **[BAZROX](https://bazrox.com)** 
 
 **[Zoku Athletics](https://zokuathletics.com)** es un producto propio de BAZROX actualmente en desarrollo. Su construcción conecta aplicaciones móviles, web, *backend*, datos, UX/UI y arquitectura alrededor del deporte, el entrenamiento, la comunidad y la experiencia deportiva.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-171815?style=flat-square&logo=kotlin&logoColor=7F52FF) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-171815?style=flat-square&logo=jetpackcompose&logoColor=4285F4) ![Next.js](https://img.shields.io/badge/Next.js-171815?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![Supabase](https://img.shields.io/badge/Supabase-171815?style=flat-square&logo=supabase&logoColor=3FCF8E)
+<p>
+<img src="https://img.shields.io/badge/Kotlin-171815?style=flat&amp;logo=kotlin&amp;logoColor=B8E524" height="26" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-171815?style=flat&amp;logo=jetpackcompose&amp;logoColor=B8E524" height="26" alt="Jetpack Compose" />
+<img src="https://img.shields.io/badge/Next.js-171815?style=flat&amp;logo=nextdotjs&amp;logoColor=B8E524" height="26" alt="Next.js" />
+<img src="https://img.shields.io/badge/Supabase-171815?style=flat&amp;logo=supabase&amp;logoColor=B8E524" height="26" alt="Supabase" />
+</p>
 
 En paralelo, construyo **BAZROX** como *Digital Product Studio & Technology Partner*: una forma de trabajar en la que producto, diseño e ingeniería forman parte de la misma conversación.
 
@@ -136,7 +141,12 @@ En paralelo, construyo **BAZROX** como *Digital Product Studio & Technology Part
 
 Plataforma SportTech en desarrollo alrededor del deporte, el entrenamiento, la comunidad y la experiencia deportiva. Es el producto propio en el que hoy convergen mi trabajo de producto, mobile, web, *backend*, datos, UX/UI y arquitectura.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-171815?style=flat-square&logo=kotlin&logoColor=7F52FF) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-171815?style=flat-square&logo=jetpackcompose&logoColor=4285F4) ![Next.js](https://img.shields.io/badge/Next.js-171815?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![Supabase](https://img.shields.io/badge/Supabase-171815?style=flat-square&logo=supabase&logoColor=3FCF8E)
+<p>
+<img src="https://img.shields.io/badge/Kotlin-171815?style=flat&amp;logo=kotlin&amp;logoColor=B8E524" height="26" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-171815?style=flat&amp;logo=jetpackcompose&amp;logoColor=B8E524" height="26" alt="Jetpack Compose" />
+<img src="https://img.shields.io/badge/Next.js-171815?style=flat&amp;logo=nextdotjs&amp;logoColor=B8E524" height="26" alt="Next.js" />
+<img src="https://img.shields.io/badge/Supabase-171815?style=flat&amp;logo=supabase&amp;logoColor=B8E524" height="26" alt="Supabase" />
+</p>
 
 ### [Task Manager API](https://github.com/byAlexLR/TaskManager-API)
 
